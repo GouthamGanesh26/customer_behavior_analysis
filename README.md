@@ -8,3 +8,7 @@ This project demonstrates an end-to-end data analysis workflow, from loading and
 
 The project focuses on transforming raw data into meaningful insights that can support data-driven decision-making.
 
+Dataset
+
+The dataset contains structured business data used to perform exploratory analysis, data cleaning, SQL analysis, and visualization.
+
