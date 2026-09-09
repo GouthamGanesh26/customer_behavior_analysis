@@ -17,7 +17,7 @@ The analysis covers areas such as:
 
 Data quality and consistency  
  Trends and patterns
-Key performance indicators (KPIs)
-Category and segment analysis
-Business performance
-Relationships between different variables
+ Key performance indicators (KPIs)
+ Category and segment analysis
+ Business performance
+ Relationships between different variables
