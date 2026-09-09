@@ -12,15 +12,5 @@ Dataset
 
 The dataset contains structured business data used to perform exploratory analysis, data cleaning, SQL analysis, and visualization.
 
-Tools & Technologies
-Tool	Purpose
-Python	Data loading, cleaning and analysis
-Pandas	Data manipulation and preprocessing
-NumPy	Numerical analysis
-Matplotlib / Seaborn	Data visualization and EDA
-PostgreSQL / MySQL / SQL Server	SQL-based data analysis
-Power BI	Interactive dashboard and visualization
-Gamma	Presentation / PPT creation
-Jupyter Notebook	Python analysis and documentation
-GitHub	Project version control and portfolio
+
 
