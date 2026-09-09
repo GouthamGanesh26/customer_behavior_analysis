@@ -21,5 +21,26 @@ Category and segment analysis,
 Business performance,
 Relationships between different variables
 
+Tools & Technologies
+
+Python
+Data loading, cleaning and analysis
+Pandas
+Data manipulation and preprocessing
+NumPy
+Numerical analysis
+Matplotlib / Seaborn
+Data visualization and EDA
+PostgreSQL / MySQL / SQL Server
+SQL-based data analysis
+Power BI
+Interactive dashboard and visualization
+Gamma
+Presentation / PPT creation
+Jupyter Notebook
+Python analysis and documentation
+GitHub
+Project version control and portfolio
+
 
 
