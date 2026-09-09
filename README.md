@@ -14,11 +14,13 @@ The dataset contains structured business data used to perform exploratory analys
 
 The analysis covers areas such as:
 
-Data quality and consistency
-  Trends and patterns
-  Key performance indicators (KPIs)
-Category and segment analysis
-Business performance
+The analysis covers areas such as:
+
+Data quality and consistency,
+Trends and patterns,
+Key performance indicators (KPIs),
+Category and segment analysis,
+Business performance,
 Relationships between different variables
 
 
